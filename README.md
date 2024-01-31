@@ -9,7 +9,7 @@ In the game we developed, the user controls the spaceship with the right, left, 
 - **Player Controls**: Use the w-a-s-d keys to navigate your spaceship - right, left, up, and down.
 - **Shooting**: Press the "space" key to fire projectiles at the incoming aliens.
 - **Scoring System**: Earn points for each alien you destroy. The longer you survive, the higher your score.
-- **Health Managements**: Be cautious! Alien projectiles reduce your health. Monitor your health bar closely.
+- **Health Management**: Be cautious! Alien projectiles reduce your health. Monitor your health bar closely.
 - **Engaging Gameplay**: Immerse yourself in a cozy and addictive gaming experience with charming visuals and relaxing music.
 
 ## Screenshots
